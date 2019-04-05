@@ -214,7 +214,7 @@
                 <div class="col-md-12">
                     <img src="./img/tbsb.png" class="tbsb" alt="">
                 </div>
-                <div class="col-md-8 contentText col-sm-12 down ">
+                <div class="col-md-8 contentText col-sm-12 ">
                     <div class="col-md-12 ">
                         透過Google API串接Google Drive讓投稿者能夠不用登入Google帳戶就能上傳簡報及資料。並利用Google表單紀錄繳交的名單、內容及異動時間。<br>
                         維護生物資訊協會網站，協助更改樣式及訊息資料，並聯絡各校的生物資訊年會討論行程事宜及相關活動。<br>
@@ -228,17 +228,18 @@
                         </button>
                     </div>
 
+
                 </div>
                 <div class="col-md-4 col-sm-12">
                     <img class="backPhoto" src="./img/front.jpg" alt="">
                 </div>
                 <div class="col-md-6 col-sm-12">
-                    <img class="ipadPhoto" src="./img/ipadMockup.png" alt="" data-3000="transform: translateX(-10vw)"
-                        data-5000="transform: translateY(0px)">
+                    <img class="ipadPhoto" src="./img/ipadMockup.png" alt=""
+                        data-bottom-top="transform: translateX(-10vw)" data-center="transform: translateY(0px)">
                 </div>
                 <div class="col-md-6 col-sm-12 text-right subTitle newTitle">新創公司製作手機app及網頁登入的
                     UI/UX 設計</div>
-                <div class="col-md-5 col-sm-12 contentText">
+                <div class="col-md-5 col-sm-12 contentText noTop">
                     在2018年的過年前夕，輾轉認識了想要合作的新創公司，進而開始進行公司的軟體UI/UX設計及計畫白皮書等設計語言風格的制定，幫助公司有更成熟的產品表現及科技感強烈的設計語言。
                 </div>
                 <div class="col-md-7 col-sm-12 text-center">
@@ -258,12 +259,13 @@
                         校內計畫的計畫網站，透過RWD的設計讓參與人都能夠整齊排列，固定照片的篇幅，讓設計簡潔有力，目前以歸回院上管理網站。 <br>
                         (因活動網站非https連線，請由連結觀看謝謝)
                     </div>
+                    <div class="col-md-12 btnDown">
+                        <button type="button" class="btn btn-warning btn-block">
+                            <a href="http://ids2d.life.nctu.edu.tw/index.php" target="_blank">Go To Page</a>
+                        </button>
+                    </div>
                 </div>
-                <div class="col-md-12 btnDown">
-                    <button type="button" class="btn btn-warning btn-block">
-                        <a href="http://ids2d.life.nctu.edu.tw/index.php" target="_blank">Go To Page</a>
-                    </button>
-                </div>
+
             </div>
         </div>
         </div>
@@ -291,36 +293,40 @@
                         src="https://alec0123321.github.io/Proposal-Cost-Calculation/#Calculation" width="100%"
                         height="800px" scrolling="auto" frameborder="1" sandbox="allow-scripts"></iframe>
                 </div>
-                <div class="col-md-12 contentText contentText2" id="up">
-                    透過Vue.js製作一個簡易的口試準備清單，並且自動計算價錢，把菜單、預估單、注意事項一同寄給自己。
-
+                <div class="col-md-12">
+                    <div class="col-md-12 contentText contentText2" id="up">
+                        透過Vue.js製作一個簡易的口試準備清單，並且自動計算價錢，把菜單、預估單、注意事項一同寄給自己。
+                    </div>
+                    <div class="col-md-12 btnDown">
+                        <button type="button" class="btn btn-info btn-block">
+                            <a href="https://alec0123321.github.io/Proposal-Cost-Calculation/#Calculation"
+                                target="_blank">Go To Page</a>
+                        </button>
+                    </div>
                 </div>
 
-                <div class="col-md-12 btnDown">
-                    <button type="button" class="btn btn-info btn-block">
-                        <a href="https://alec0123321.github.io/Proposal-Cost-Calculation/#Calculation"
-                            target="_blank">Go To Page</a>
-                    </button>
-                </div>
                 <div class="col-md-12 subTitle smallDown">Brain.js 機器學習練習 </div>
                 <div class="col-md-12 embed-responsive embed-responsive-4by3 ">
                     <iframe class="embed-responsive-item paddingLR NeedHight"
                         src="https://alec0123321.github.io/MachineLearningColor/" width="100%" height="800px"
                         scrolling="auto" frameborder="1" sandbox="allow-scripts"></iframe>
                 </div>
-                <div class="col-md-12 contentText contentText2" id="up">
-                    透過Brain.js訓練三種不同RGB參數，訓練模型，判斷在不同背景顏色下，選出適合的字體顏色。 <br>
-                    先給模型我們的training
-                    data，把我們已知深色的RGB參數告知模型這適合淺色（白色）的字體顏色，而淺色的RGB參數告知模型這適合深色（黑色）的字體顏色，因此再下次使用者選擇了一個沒有出現過再training
-                    data中的顏色時，可以透過訓練的模型去推測適合的字體顏色。
+                <div class="col-md-12">
+                    <div class="col-md-12 contentText contentText2" id="up">
+                        透過Brain.js訓練三種不同RGB參數，訓練模型，判斷在不同背景顏色下，選出適合的字體顏色。 <br>
+                        先給模型我們的training
+                        data，把我們已知深色的RGB參數告知模型這適合淺色（白色）的字體顏色，而淺色的RGB參數告知模型這適合深色（黑色）的字體顏色，因此再下次使用者選擇了一個沒有出現過再training
+                        data中的顏色時，可以透過訓練的模型去推測適合的字體顏色。
 
 
+                    </div>
+                    <div class="col-md-12 btnDown">
+                        <button type="button" class="btn btn-info btn-block">
+                            <a href="https://alec0123321.github.io/MachineLearningColor/" target="_blank">Go To Page</a>
+                        </button>
+                    </div>
                 </div>
-                <div class="col-md-12 btnDown">
-                    <button type="button" class="btn btn-info btn-block">
-                        <a href="https://alec0123321.github.io/MachineLearningColor/" target="_blank">Go To Page</a>
-                    </button>
-                </div>
+
             </div>
             <div class="row" id="rCode">
                 <div class="col-md-12 subTitle">
