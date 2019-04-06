@@ -35,9 +35,3 @@
     margin-top: -10px !important;
     width: 80%;
     height: 350px !important; } }
-
-@media screen and (orientation: landscape) {
-  .backPhoto, .newDown, .UIX, .disable, .disiPad {
-    display: none; }
-  .noshow {
-    display: block !important; } }

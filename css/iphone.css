@@ -82,10 +82,5 @@
     width: 100%; } }
 
 @media screen and (orientation: landscape) {
-  .noshow {
-    display: block !important;
-    text-align: center; }
-  .contentText, .LR, .ipadPhoto, .disable {
-    display: none; }
   section#UI .boxs {
     height: 120vh; } }
