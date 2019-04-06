@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
 * {
-  font-family: 'Noto Sans TC', sans-serif; }
+  font-family: 'Noto Sans TC', sans-serif;
+  border: 1px solid black; }
 
 html, body {
   overflow-x: hidden;
@@ -28,9 +29,6 @@ nav.navbar {
 .nav-item {
   padding: 0 50px; }
 
-.navbar-toggler-icon {
-  border: 1px solid white; }
-
 header {
   position: relative;
   background-color: #11136F !important;
@@ -50,218 +48,164 @@ header {
 @keyframes falling {
   0%, 100% {
     opacity: 0; }
-  70% {
-    opacity: 1; }
-  0% {
-    transform: translate(100px, 0px); }
-  100% {
-    transform: translate(0px, 200px); } }
+  50% {
+    opacity: 1; } }
   header [class^='star'] {
-    width: 3px;
-    height: 3px;
+    width: 4px;
+    height: 4px;
     border-radius: 50%;
     background-color: #fff;
     animation: falling 2s infinite; }
   header .star1 {
     position: absolute;
-    left: 56%;
-    top: 70%;
+    left: 57%;
+    top: 76%;
     animation-delay: -0.3s; }
   header .star2 {
     position: absolute;
-    left: 43%;
-    top: 78%;
+    left: 32%;
+    top: 6%;
     animation-delay: -0.6s; }
   header .star3 {
     position: absolute;
-    left: 59%;
-    top: 77%;
+    left: 24%;
+    top: 28%;
     animation-delay: -0.9s; }
   header .star4 {
     position: absolute;
-    left: 62%;
-    top: 65%;
+    left: 52%;
+    top: 4%;
     animation-delay: -1.2s; }
   header .star5 {
     position: absolute;
-    left: 37%;
-    top: 45%;
+    left: 27%;
+    top: 63%;
     animation-delay: -1.5s; }
   header .star6 {
     position: absolute;
-    left: 28%;
-    top: 49%;
+    left: 69%;
+    top: 66%;
     animation-delay: -1.8s; }
   header .star7 {
     position: absolute;
-    left: 85%;
-    top: 59%;
+    left: 84%;
+    top: 46%;
     animation-delay: -2.1s; }
   header .star8 {
     position: absolute;
-    left: 93%;
-    top: 64%;
+    left: 67%;
+    top: 11%;
     animation-delay: -2.4s; }
   header .star9 {
     position: absolute;
-    left: 27%;
-    top: 52%;
+    left: 65%;
+    top: 55%;
     animation-delay: -2.7s; }
   header .star10 {
     position: absolute;
-    left: 71%;
-    top: 19%;
+    left: 51%;
+    top: 79%;
     animation-delay: -3s; }
   header .star11 {
     position: absolute;
-    left: 80%;
-    top: 30%;
+    left: 63%;
+    top: 37%;
     animation-delay: -3.3s; }
   header .star12 {
     position: absolute;
-    left: 69%;
-    top: 48%;
+    left: 79%;
+    top: 23%;
     animation-delay: -3.6s; }
   header .star13 {
     position: absolute;
-    left: 76%;
-    top: 58%;
+    left: 17%;
+    top: 20%;
     animation-delay: -3.9s; }
   header .star14 {
     position: absolute;
-    left: 64%;
-    top: 40%;
+    left: 98%;
+    top: 61%;
     animation-delay: -4.2s; }
   header .star15 {
     position: absolute;
-    left: 50%;
-    top: 0%;
+    left: 68%;
+    top: 47%;
     animation-delay: -4.5s; }
   header .star16 {
     position: absolute;
-    left: 14%;
-    top: 8%;
+    left: 91%;
+    top: 6%;
     animation-delay: -4.8s; }
   header .star17 {
     position: absolute;
-    left: 78%;
-    top: 75%;
+    left: 42%;
+    top: 7%;
     animation-delay: -5.1s; }
   header .star18 {
     position: absolute;
-    left: 74%;
-    top: 11%;
+    left: 17%;
+    top: 55%;
     animation-delay: -5.4s; }
   header .star19 {
     position: absolute;
-    left: 100%;
-    top: 10%;
+    left: 81%;
+    top: 49%;
     animation-delay: -5.7s; }
   header .star20 {
     position: absolute;
-    left: 45%;
-    top: 0%;
+    left: 40%;
+    top: 44%;
     animation-delay: -6s; }
   header .star21 {
     position: absolute;
-    left: 63%;
-    top: 15%;
+    left: 12%;
+    top: 79%;
     animation-delay: -6.3s; }
   header .star22 {
     position: absolute;
-    left: 83%;
-    top: 10%;
+    left: 16%;
+    top: 43%;
     animation-delay: -6.6s; }
   header .star23 {
     position: absolute;
-    left: 45%;
-    top: 36%;
+    left: 70%;
+    top: 7%;
     animation-delay: -6.9s; }
   header .star24 {
     position: absolute;
-    left: 100%;
-    top: 33%;
+    left: 15%;
+    top: 78%;
     animation-delay: -7.2s; }
   header .star25 {
     position: absolute;
-    left: 70%;
-    top: 46%;
+    left: 83%;
+    top: 8%;
     animation-delay: -7.5s; }
   header .star26 {
     position: absolute;
-    left: 75%;
-    top: 62%;
+    left: 78%;
+    top: 42%;
     animation-delay: -7.8s; }
   header .star27 {
     position: absolute;
-    left: 75%;
-    top: 34%;
+    left: 59%;
+    top: 28%;
     animation-delay: -8.1s; }
   header .star28 {
     position: absolute;
-    left: 41%;
-    top: 38%;
+    left: 82%;
+    top: 21%;
     animation-delay: -8.4s; }
   header .star29 {
     position: absolute;
-    left: 21%;
-    top: 26%;
+    left: 84%;
+    top: 0%;
     animation-delay: -8.7s; }
   header .star30 {
     position: absolute;
-    left: 56%;
-    top: 29%;
+    left: 44%;
+    top: 78%;
     animation-delay: -9s; }
-  header .star31 {
-    position: absolute;
-    left: 80%;
-    top: 62%;
-    animation-delay: -9.3s; }
-  header .star32 {
-    position: absolute;
-    left: 32%;
-    top: 23%;
-    animation-delay: -9.6s; }
-  header .star33 {
-    position: absolute;
-    left: 14%;
-    top: 61%;
-    animation-delay: -9.9s; }
-  header .star34 {
-    position: absolute;
-    left: 72%;
-    top: 74%;
-    animation-delay: -10.2s; }
-  header .star35 {
-    position: absolute;
-    left: 89%;
-    top: 60%;
-    animation-delay: -10.5s; }
-  header .star36 {
-    position: absolute;
-    left: 15%;
-    top: 55%;
-    animation-delay: -10.8s; }
-  header .star37 {
-    position: absolute;
-    left: 100%;
-    top: 54%;
-    animation-delay: -11.1s; }
-  header .star38 {
-    position: absolute;
-    left: 55%;
-    top: 75%;
-    animation-delay: -11.4s; }
-  header .star39 {
-    position: absolute;
-    left: 37%;
-    top: 3%;
-    animation-delay: -11.7s; }
-  header .star40 {
-    position: absolute;
-    left: 66%;
-    top: 12%;
-    animation-delay: -12s; }
 
 .Mainphoto {
   width: 80%;
@@ -414,11 +358,11 @@ section#Project, section#Project2, section#Contact {
     font-size: 1.2rem;
     padding: 20px 50px;
     padding-top: 40px;
-    line-height: 5vh; }
+    line-height: 4vh; }
   section#Project .backPhoto, section#Project2 .backPhoto, section#Contact .backPhoto {
     width: 90%;
     height: auto;
-    margin-top: 100px;
+    margin-top: 75px;
     box-shadow: 10px 10px 20px black; }
   section#Project .backPhotos, section#Project2 .backPhotos, section#Contact .backPhotos {
     text-align: center !important; }
@@ -475,7 +419,7 @@ section#Contact {
   text-decoration: underline; }
 
 section#UI {
-  background-image: url("../img/background1.jpg");
+  background-image: url("background1.jpg");
   background-color: #84B1ED;
   background-repeat: no-repeat;
   background-size: cover;
@@ -495,22 +439,14 @@ section#UI {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    text-align: center; }
-  section#UI .phone {
-    animation: moveUp 6s; }
-
-@keyframes moveUp {
-  0% {
-    opacity: 0; }
-  75%, 100% {
-    opacity: 1; } }
+    text-align: center !important; }
   section#UI .card1 {
     margin-top: -110px;
     animation: moveleft 2s infinite alternate; }
 
 @keyframes moveleft {
   0%, 5% {
-    left: 25%; }
+    left: 28%; }
   100%, 75% {
     left: 50%; } }
   section#UI .card2 {
@@ -570,7 +506,14 @@ footer {
     text-align: left !important;
     padding: 30px !important; }
   .contentText {
-    padding-top: 30px !important; }
+    padding-top: 30px !important;
+    font-size: 1rem;
+    padding: 20px 10px;
+    padding-top: 100px;
+    line-height: 2vh; }
+  .noTop {
+    padding-left: 10px !important;
+    padding-right: 10px !important; }
   section#Contact iframe {
     width: 80%;
     height: auot; }
@@ -583,4 +526,13 @@ footer {
     height: auto;
     padding: 10px;
     margin: 0;
-    text-align: center; } }
+    text-align: center; }
+  .smCenter {
+    text-align: center !important; }
+    .smCenter .btn {
+      width: 100% !important; }
+  .backPhoto {
+    margin-top: 0px !important; }
+  .ix1 {
+    width: 200px !important;
+    height: auto; } }
