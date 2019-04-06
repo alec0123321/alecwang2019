@@ -64,203 +64,203 @@ header {
     animation: falling 2s infinite; }
   header .star1 {
     position: absolute;
-    left: 4%;
-    top: 79%;
+    left: 56%;
+    top: 70%;
     animation-delay: -0.3s; }
   header .star2 {
     position: absolute;
-    left: 70%;
-    top: 5%;
+    left: 43%;
+    top: 78%;
     animation-delay: -0.6s; }
   header .star3 {
     position: absolute;
-    left: 11%;
-    top: 37%;
+    left: 59%;
+    top: 77%;
     animation-delay: -0.9s; }
   header .star4 {
     position: absolute;
-    left: 76%;
-    top: 22%;
+    left: 62%;
+    top: 65%;
     animation-delay: -1.2s; }
   header .star5 {
     position: absolute;
-    left: 86%;
-    top: 73%;
+    left: 37%;
+    top: 45%;
     animation-delay: -1.5s; }
   header .star6 {
     position: absolute;
-    left: 48%;
-    top: 18%;
+    left: 28%;
+    top: 49%;
     animation-delay: -1.8s; }
   header .star7 {
     position: absolute;
-    left: 12%;
-    top: 34%;
+    left: 85%;
+    top: 59%;
     animation-delay: -2.1s; }
   header .star8 {
     position: absolute;
-    left: 100%;
-    top: 39%;
+    left: 93%;
+    top: 64%;
     animation-delay: -2.4s; }
   header .star9 {
     position: absolute;
-    left: 55%;
-    top: 25%;
+    left: 27%;
+    top: 52%;
     animation-delay: -2.7s; }
   header .star10 {
     position: absolute;
-    left: 89%;
-    top: 25%;
+    left: 71%;
+    top: 19%;
     animation-delay: -3s; }
   header .star11 {
     position: absolute;
-    left: 35%;
-    top: 7%;
+    left: 80%;
+    top: 30%;
     animation-delay: -3.3s; }
   header .star12 {
     position: absolute;
-    left: 33%;
-    top: 7%;
+    left: 69%;
+    top: 48%;
     animation-delay: -3.6s; }
   header .star13 {
     position: absolute;
-    left: 78%;
-    top: 47%;
+    left: 76%;
+    top: 58%;
     animation-delay: -3.9s; }
   header .star14 {
     position: absolute;
-    left: 68%;
-    top: 15%;
+    left: 64%;
+    top: 40%;
     animation-delay: -4.2s; }
   header .star15 {
     position: absolute;
-    left: 40%;
-    top: 62%;
+    left: 50%;
+    top: 0%;
     animation-delay: -4.5s; }
   header .star16 {
     position: absolute;
-    left: 67%;
-    top: 37%;
+    left: 14%;
+    top: 8%;
     animation-delay: -4.8s; }
   header .star17 {
     position: absolute;
-    left: 19%;
-    top: 8%;
+    left: 78%;
+    top: 75%;
     animation-delay: -5.1s; }
   header .star18 {
     position: absolute;
-    left: 60%;
-    top: 45%;
+    left: 74%;
+    top: 11%;
     animation-delay: -5.4s; }
   header .star19 {
     position: absolute;
-    left: 84%;
-    top: 66%;
+    left: 100%;
+    top: 10%;
     animation-delay: -5.7s; }
   header .star20 {
     position: absolute;
-    left: 41%;
-    top: 27%;
+    left: 45%;
+    top: 0%;
     animation-delay: -6s; }
   header .star21 {
     position: absolute;
-    left: 92%;
-    top: 79%;
+    left: 63%;
+    top: 15%;
     animation-delay: -6.3s; }
   header .star22 {
     position: absolute;
-    left: 68%;
-    top: 73%;
+    left: 83%;
+    top: 10%;
     animation-delay: -6.6s; }
   header .star23 {
     position: absolute;
-    left: 41%;
-    top: 55%;
+    left: 45%;
+    top: 36%;
     animation-delay: -6.9s; }
   header .star24 {
     position: absolute;
-    left: 8%;
-    top: 46%;
+    left: 100%;
+    top: 33%;
     animation-delay: -7.2s; }
   header .star25 {
     position: absolute;
-    left: 16%;
-    top: 69%;
+    left: 70%;
+    top: 46%;
     animation-delay: -7.5s; }
   header .star26 {
     position: absolute;
-    left: 61%;
-    top: 31%;
+    left: 75%;
+    top: 62%;
     animation-delay: -7.8s; }
   header .star27 {
     position: absolute;
-    left: 36%;
-    top: 4%;
+    left: 75%;
+    top: 34%;
     animation-delay: -8.1s; }
   header .star28 {
     position: absolute;
-    left: 50%;
-    top: 2%;
+    left: 41%;
+    top: 38%;
     animation-delay: -8.4s; }
   header .star29 {
     position: absolute;
-    left: 9%;
-    top: 55%;
+    left: 21%;
+    top: 26%;
     animation-delay: -8.7s; }
   header .star30 {
     position: absolute;
-    left: 64%;
-    top: 55%;
+    left: 56%;
+    top: 29%;
     animation-delay: -9s; }
   header .star31 {
     position: absolute;
-    left: 40%;
-    top: 37%;
+    left: 80%;
+    top: 62%;
     animation-delay: -9.3s; }
   header .star32 {
     position: absolute;
-    left: 61%;
-    top: 42%;
+    left: 32%;
+    top: 23%;
     animation-delay: -9.6s; }
   header .star33 {
     position: absolute;
-    left: 97%;
+    left: 14%;
     top: 61%;
     animation-delay: -9.9s; }
   header .star34 {
     position: absolute;
-    left: 41%;
-    top: 19%;
+    left: 72%;
+    top: 74%;
     animation-delay: -10.2s; }
   header .star35 {
     position: absolute;
-    left: 74%;
-    top: 51%;
+    left: 89%;
+    top: 60%;
     animation-delay: -10.5s; }
   header .star36 {
     position: absolute;
-    left: 43%;
-    top: 68%;
+    left: 15%;
+    top: 55%;
     animation-delay: -10.8s; }
   header .star37 {
     position: absolute;
-    left: 31%;
-    top: 30%;
+    left: 100%;
+    top: 54%;
     animation-delay: -11.1s; }
   header .star38 {
     position: absolute;
-    left: 38%;
-    top: 69%;
+    left: 55%;
+    top: 75%;
     animation-delay: -11.4s; }
   header .star39 {
     position: absolute;
-    left: 85%;
-    top: 40%;
+    left: 37%;
+    top: 3%;
     animation-delay: -11.7s; }
   header .star40 {
     position: absolute;
-    left: 62%;
-    top: 29%;
+    left: 66%;
+    top: 12%;
     animation-delay: -12s; }
 
 .Mainphoto {
@@ -407,7 +407,7 @@ section#Project, section#Project2, section#Contact {
     padding: 10px 20px; }
   section#Project .contentText, section#Project2 .contentText, section#Contact .contentText {
     font-size: 1.2rem;
-    padding: 20px 50px;
+    padding: 20px 0px;
     padding-top: 100px;
     line-height: 5vh; }
   section#Project .contentText2, section#Project2 .contentText2, section#Contact .contentText2 {
@@ -416,10 +416,12 @@ section#Project, section#Project2, section#Contact {
     padding-top: 40px;
     line-height: 5vh; }
   section#Project .backPhoto, section#Project2 .backPhoto, section#Contact .backPhoto {
-    width: 100%;
+    width: 90%;
     height: auto;
     margin-top: 100px;
     box-shadow: 10px 10px 20px black; }
+  section#Project .backPhotos, section#Project2 .backPhotos, section#Contact .backPhotos {
+    text-align: center !important; }
   section#Project .ipadPhoto, section#Project2 .ipadPhoto, section#Contact .ipadPhoto {
     width: 120%;
     height: auto;
@@ -431,13 +433,13 @@ section#Project, section#Project2, section#Contact {
     padding: 100px 30px; }
   section#Project .noTop, section#Project2 .noTop, section#Contact .noTop {
     padding-top: 0; }
-  section#Project .UIX, section#Project2 .UIX, section#Contact .UIX {
+  section#Project .UIX, section#Project .uix, section#Project2 .UIX, section#Project2 .uix, section#Contact .UIX, section#Contact .uix {
     width: 90%;
     height: auto; }
-  section#Project .btnDown, section#Project2 .btnDown, section#Contact .btnDown {
-    padding: 0; }
-    section#Project .btnDown a, section#Project2 .btnDown a, section#Contact .btnDown a {
-      color: white; }
+  section#Project .uix, section#Project2 .uix, section#Contact .uix {
+    display: none; }
+  section#Project .btnDown a, section#Project2 .btnDown a, section#Contact .btnDown a {
+    color: white; }
   section#Project .smallDown, section#Project2 .smallDown, section#Contact .smallDown {
     padding-top: 100px; }
 
@@ -543,6 +545,9 @@ footer {
     width: 30%; }
   .embed-responsive-4by3 {
     height: 500px; }
+  .fixes {
+    width: 500px;
+    text-align: center; }
   section#About .title, section#study .title {
     text-align: center !important;
     padding-left: 0; }
