@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
+@media screen and (max-width: 768px) {
+  header #Left {
+    padding: 0px !important; }
+  header .navbar-nav {
+    position: relative;
+    padding-top: 50px; }
+  header .quote {
+    font-size: 1rem;
+    line-height: 150% !important; }
+  header .name {
+    z-index: 1;
+    left: 50px;
+    width: 30%;
+    margin-top: -100px; }
+  section#About .title, section#study .title {
+    text-align: center !important;
+    padding-left: 0; }
+  section#About .me2, section#study .me2 {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-top: 0px;
+    padding-top: 0; }
+  section#About .lineText, section#study .lineText {
+    font-size: 1rem;
+    padding-top: 20px !important; }
+  section#About .timeText, section#study .timeText {
+    padding: 20px !important; }
+  section#study .downloads {
+    padding: 10px 10px; }
+  section#study .downloadLeft {
+    left: 0; }
+  section#study .downloadRight {
+    right: 0; }
+  section#Project .subTitle, section#Project2 .subTitle, .row#rCode .subTitle {
+    font-size: 1.5rem; }
+  section#Project .contentText, section#Project2 .contentText, .row#rCode .contentText {
+    font-size: 1rem !important;
+    line-height: 4vh; }
+  section#Project .contentText2, section#Project2 .contentText2, .row#rCode .contentText2 {
+    font-size: 1rem !important;
+    padding: 20px 10px;
+    padding-top: 40px;
+    line-height: 4vh; }
+  section#Project .LR, section#Project2 .LR, .row#rCode .LR {
+    margin-left: 15px !important;
+    margin-right: 15px !important; }
+  section#Project .ipadPhoto, section#Project2 .ipadPhoto, .row#rCode .ipadPhoto {
+    display: none; }
+  section#Project .newTitle, section#Project2 .newTitle, .row#rCode .newTitle {
+    text-align: left !important;
+    padding: 30px !important; }
+  section#Project .newDown, section#Project2 .newDown, .row#rCode .newDown {
+    text-align: left !important;
+    padding-top: 50px;
+    padding-right: 30px; }
+  section#Project .UIX, section#Project2 .UIX, .row#rCode .UIX {
+    margin-top: 0px; }
+  section#Project2 .disable {
+    display: none; }
+  section#Project2 .NeedHight {
+    height: 100% !important; }
+  section#Project2 .embed-responsive-4by3 {
+    height: 500px; }
+  section#Project2 .row#rCode .subTitle2 {
+    font-size: 1.1rem; }
+  section#UI .boxs {
+    height: 80vh;
+    margin-left: 2px; }
+  section#UI {
+    background: linear-gradient(to bottom, #88CEB6 0%, #FFB1B1 100%) !important; }
+  section#Contact iframe {
+    width: 90%;
+    height: 400px; }
+  section#Contact .contact {
+    width: 100%;
+    height: auto; }
+  section#Contact .btn {
+    text-align: center;
+    width: 100%; } }
