@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
 @media screen and (max-width: 768px) {
   .noshow {
-    display: none; }
+    display: none !important; }
   header #Left {
     padding: 0px !important; }
   header .navbar-nav {
@@ -83,9 +83,9 @@
 
 @media screen and (orientation: landscape) {
   .noshow {
-    display: block;
+    display: block !important;
     text-align: center; }
-  .contentText, .LR, .ipadPhoto {
+  .contentText, .LR, .ipadPhoto, .disable {
     display: none; }
   section#UI .boxs {
     height: 120vh; } }
