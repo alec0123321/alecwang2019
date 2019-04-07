@@ -13,6 +13,13 @@
     left: 50px;
     width: 30%;
     margin-top: -100px; }
+  .btn-light, .btn-info {
+    background-color: #535661; }
+    .btn-light a, .btn-info a {
+      text-decoration: none; }
+  .btn-primary {
+    background-color: #84B1ED;
+    border: #84B1ED; }
   section#About .title, section#study .title {
     text-align: center !important;
     padding-left: 0; }

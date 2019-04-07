@@ -2,6 +2,13 @@
 @media screen and (max-width: 1024px) {
   * {
     line-height: normal !important; }
+  section .btn-light, section .btn-info {
+    background-color: #535661; }
+    section .btn-light a, section .btn-info a {
+      text-decoration: none; }
+  section .btn-primary {
+    background-color: #84B1ED;
+    border: #84B1ED; }
   section#About .me2 {
     margin-top: 20%; }
   section#About .title {
