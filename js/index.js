@@ -10,3 +10,7 @@ var s = skrollr.init();
 if (s.isMobile()) {
     s.destroy();
 }
+
+screen.addEventListener("orientationchange", function () {
+    console.log("The orientation of the screen is: " + screen.orientation);
+});

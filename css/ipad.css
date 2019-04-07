@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
 @media screen and (max-width: 1024px) {
-  .noshow {
-    display: none !important; }
+  * {
+    line-height: normal !important; }
   section#About .me2 {
     margin-top: 20%; }
   section#About .title {
@@ -17,8 +17,12 @@
     display: none; }
   section#Project .Top30 {
     padding-top: 30px; }
+  section#Project .ipadPhoto, section#Project .newPe, section#Project .UIX {
+    display: none; }
   section#Project2 .smallDown {
     padding-top: 30px; }
+  section#Project2 .ani12 {
+    display: none; }
   section#UI {
     background: linear-gradient(to bottom, #88CEB6 0%, #FFB1B1 100%) !important;
     background-repeat: no-repeat;
@@ -27,12 +31,14 @@
     section#UI .boxs {
       position: relative;
       width: 100%;
-      height: 40vh;
-      margin-left: -15px; }
+      height: 65vh;
+      margin-left: 0px; }
   section#bot .gif {
-    width: 100% !important;
+    width: 95% !important;
     height: auto;
     padding: 10px; }
+  section#bot .gifs {
+    padding-top: 80px; }
   section#Contact .embed-responsive-4by3 {
     height: 440px; }
   section#Contact iframe {
