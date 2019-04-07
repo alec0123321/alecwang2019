@@ -79,153 +79,153 @@ header {
     animation: falling 2s infinite; }
   header .star1 {
     position: absolute;
-    left: 15%;
-    top: 72%;
+    left: 23%;
+    top: 4%;
     animation-delay: -0.3s; }
   header .star2 {
     position: absolute;
-    left: 71%;
-    top: 39%;
+    left: 96%;
+    top: 33%;
     animation-delay: -0.6s; }
   header .star3 {
     position: absolute;
-    left: 73%;
-    top: 65%;
+    left: 98%;
+    top: 11%;
     animation-delay: -0.9s; }
   header .star4 {
     position: absolute;
-    left: 64%;
-    top: 11%;
+    left: 19%;
+    top: 18%;
     animation-delay: -1.2s; }
   header .star5 {
     position: absolute;
-    left: 15%;
-    top: 69%;
+    left: 37%;
+    top: 50%;
     animation-delay: -1.5s; }
   header .star6 {
     position: absolute;
-    left: 62%;
-    top: 19%;
+    left: 70%;
+    top: 14%;
     animation-delay: -1.8s; }
   header .star7 {
     position: absolute;
-    left: 65%;
-    top: 34%;
+    left: 51%;
+    top: 26%;
     animation-delay: -2.1s; }
   header .star8 {
     position: absolute;
-    left: 46%;
-    top: 14%;
+    left: 95%;
+    top: 75%;
     animation-delay: -2.4s; }
   header .star9 {
     position: absolute;
-    left: 80%;
+    left: 71%;
     top: 23%;
     animation-delay: -2.7s; }
   header .star10 {
     position: absolute;
-    left: 3%;
-    top: 44%;
+    left: 16%;
+    top: 0%;
     animation-delay: -3s; }
   header .star11 {
     position: absolute;
-    left: 8%;
-    top: 55%;
+    left: 65%;
+    top: 42%;
     animation-delay: -3.3s; }
   header .star12 {
     position: absolute;
-    left: 42%;
-    top: 10%;
+    left: 52%;
+    top: 42%;
     animation-delay: -3.6s; }
   header .star13 {
     position: absolute;
-    left: 22%;
-    top: 39%;
+    left: 92%;
+    top: 62%;
     animation-delay: -3.9s; }
   header .star14 {
     position: absolute;
-    left: 89%;
-    top: 41%;
+    left: 10%;
+    top: 24%;
     animation-delay: -4.2s; }
   header .star15 {
     position: absolute;
-    left: 43%;
-    top: 52%;
+    left: 74%;
+    top: 3%;
     animation-delay: -4.5s; }
   header .star16 {
     position: absolute;
-    left: 16%;
-    top: 20%;
+    left: 74%;
+    top: 18%;
     animation-delay: -4.8s; }
   header .star17 {
     position: absolute;
-    left: 100%;
-    top: 36%;
+    left: 26%;
+    top: 45%;
     animation-delay: -5.1s; }
   header .star18 {
     position: absolute;
-    left: 36%;
-    top: 9%;
+    left: 60%;
+    top: 36%;
     animation-delay: -5.4s; }
   header .star19 {
     position: absolute;
-    left: 84%;
-    top: 38%;
+    left: 28%;
+    top: 75%;
     animation-delay: -5.7s; }
   header .star20 {
     position: absolute;
-    left: 25%;
-    top: 71%;
+    left: 51%;
+    top: 0%;
     animation-delay: -6s; }
   header .star21 {
     position: absolute;
-    left: 43%;
-    top: 13%;
+    left: 79%;
+    top: 4%;
     animation-delay: -6.3s; }
   header .star22 {
     position: absolute;
-    left: 72%;
-    top: 47%;
+    left: 56%;
+    top: 5%;
     animation-delay: -6.6s; }
   header .star23 {
     position: absolute;
-    left: 91%;
-    top: 58%;
+    left: 7%;
+    top: 22%;
     animation-delay: -6.9s; }
   header .star24 {
     position: absolute;
-    left: 39%;
-    top: 10%;
+    left: 42%;
+    top: 54%;
     animation-delay: -7.2s; }
   header .star25 {
     position: absolute;
-    left: 97%;
-    top: 63%;
+    left: 84%;
+    top: 40%;
     animation-delay: -7.5s; }
   header .star26 {
     position: absolute;
-    left: 22%;
-    top: 28%;
+    left: 15%;
+    top: 15%;
     animation-delay: -7.8s; }
   header .star27 {
     position: absolute;
-    left: 10%;
-    top: 23%;
+    left: 94%;
+    top: 50%;
     animation-delay: -8.1s; }
   header .star28 {
     position: absolute;
-    left: 15%;
-    top: 62%;
+    left: 42%;
+    top: 34%;
     animation-delay: -8.4s; }
   header .star29 {
     position: absolute;
-    left: 3%;
-    top: 34%;
+    left: 47%;
+    top: 26%;
     animation-delay: -8.7s; }
   header .star30 {
     position: absolute;
-    left: 5%;
-    top: 78%;
+    left: 11%;
+    top: 37%;
     animation-delay: -9s; }
   header .explore {
     position: absolute;
@@ -253,6 +253,13 @@ section {
   section .paddingLR {
     padding-left: 20px;
     padding-right: 20px; }
+  section .btn-light, section .btn-info {
+    background-color: #535661; }
+    section .btn-light a, section .btn-info a {
+      text-decoration: none; }
+  section .btn-primary {
+    background-color: #84B1ED;
+    border: #84B1ED; }
 
 section#About .row {
   height: auto;
@@ -351,7 +358,7 @@ section#Project .btnDown a, section#Project2 .btnDown a, section#Contact .btnDow
   color: white; }
 
 section#Project {
-  background-color: #92E8D0; }
+  background-color: #fff; }
   section#Project .tbsb {
     width: 100%;
     height: auto; }
@@ -384,7 +391,7 @@ section#Project {
     margin-right: 30px; }
 
 section#Project2 {
-  background-color: #FCD464; }
+  background-color: #fff; }
   section#Project2 .smallDown {
     padding-top: 100px; }
   section#Project2 #rCode img {

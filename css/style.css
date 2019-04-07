@@ -57,153 +57,153 @@ header {
     animation: falling 2s infinite; }
   header .star1 {
     position: absolute;
-    left: 27%;
-    top: 12%;
+    left: 61%;
+    top: 72%;
     animation-delay: -0.3s; }
   header .star2 {
     position: absolute;
-    left: 13%;
-    top: 7%;
+    left: 29%;
+    top: 27%;
     animation-delay: -0.6s; }
   header .star3 {
     position: absolute;
-    left: 5%;
-    top: 35%;
+    left: 1%;
+    top: 47%;
     animation-delay: -0.9s; }
   header .star4 {
     position: absolute;
-    left: 28%;
-    top: 46%;
+    left: 16%;
+    top: 78%;
     animation-delay: -1.2s; }
   header .star5 {
     position: absolute;
-    left: 78%;
-    top: 34%;
+    left: 13%;
+    top: 73%;
     animation-delay: -1.5s; }
   header .star6 {
     position: absolute;
-    left: 40%;
-    top: 8%;
+    left: 11%;
+    top: 23%;
     animation-delay: -1.8s; }
   header .star7 {
     position: absolute;
-    left: 42%;
-    top: 34%;
+    left: 14%;
+    top: 4%;
     animation-delay: -2.1s; }
   header .star8 {
     position: absolute;
-    left: 2%;
-    top: 64%;
+    left: 90%;
+    top: 58%;
     animation-delay: -2.4s; }
   header .star9 {
     position: absolute;
-    left: 35%;
-    top: 29%;
+    left: 11%;
+    top: 70%;
     animation-delay: -2.7s; }
   header .star10 {
     position: absolute;
-    left: 47%;
-    top: 29%;
+    left: 53%;
+    top: 53%;
     animation-delay: -3s; }
   header .star11 {
     position: absolute;
-    left: 25%;
-    top: 34%;
+    left: 14%;
+    top: 64%;
     animation-delay: -3.3s; }
   header .star12 {
     position: absolute;
-    left: 37%;
-    top: 51%;
+    left: 38%;
+    top: 73%;
     animation-delay: -3.6s; }
   header .star13 {
     position: absolute;
-    left: 77%;
-    top: 16%;
+    left: 37%;
+    top: 36%;
     animation-delay: -3.9s; }
   header .star14 {
     position: absolute;
-    left: 1%;
-    top: 10%;
+    left: 82%;
+    top: 65%;
     animation-delay: -4.2s; }
   header .star15 {
     position: absolute;
-    left: 62%;
-    top: 3%;
+    left: 60%;
+    top: 43%;
     animation-delay: -4.5s; }
   header .star16 {
     position: absolute;
-    left: 87%;
-    top: 45%;
+    left: 57%;
+    top: 76%;
     animation-delay: -4.8s; }
   header .star17 {
     position: absolute;
-    left: 99%;
-    top: 60%;
+    left: 37%;
+    top: 77%;
     animation-delay: -5.1s; }
   header .star18 {
     position: absolute;
-    left: 26%;
-    top: 64%;
+    left: 62%;
+    top: 29%;
     animation-delay: -5.4s; }
   header .star19 {
     position: absolute;
-    left: 89%;
-    top: 8%;
+    left: 25%;
+    top: 12%;
     animation-delay: -5.7s; }
   header .star20 {
     position: absolute;
-    left: 86%;
-    top: 12%;
+    left: 95%;
+    top: 60%;
     animation-delay: -6s; }
   header .star21 {
     position: absolute;
-    left: 43%;
-    top: 66%;
+    left: 37%;
+    top: 2%;
     animation-delay: -6.3s; }
   header .star22 {
     position: absolute;
-    left: 56%;
-    top: 11%;
+    left: 69%;
+    top: 47%;
     animation-delay: -6.6s; }
   header .star23 {
     position: absolute;
-    left: 96%;
-    top: 14%;
+    left: 48%;
+    top: 12%;
     animation-delay: -6.9s; }
   header .star24 {
     position: absolute;
-    left: 66%;
-    top: 55%;
+    left: 40%;
+    top: 62%;
     animation-delay: -7.2s; }
   header .star25 {
     position: absolute;
-    left: 63%;
-    top: 6%;
+    left: 2%;
+    top: 46%;
     animation-delay: -7.5s; }
   header .star26 {
     position: absolute;
-    left: 25%;
-    top: 13%;
+    left: 19%;
+    top: 78%;
     animation-delay: -7.8s; }
   header .star27 {
     position: absolute;
-    left: 50%;
-    top: 75%;
+    left: 38%;
+    top: 5%;
     animation-delay: -8.1s; }
   header .star28 {
     position: absolute;
-    left: 24%;
-    top: 28%;
+    left: 90%;
+    top: 63%;
     animation-delay: -8.4s; }
   header .star29 {
     position: absolute;
-    left: 99%;
-    top: 48%;
+    left: 76%;
+    top: 73%;
     animation-delay: -8.7s; }
   header .star30 {
     position: absolute;
-    left: 41%;
-    top: 8%;
+    left: 52%;
+    top: 4%;
     animation-delay: -9s; }
 
 .Mainphoto {
