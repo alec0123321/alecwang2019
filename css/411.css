@@ -1,5 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
 @media screen and (max-width: 414px) {
+  section#study .downloads {
+    padding: 10px 10px; }
+  section#study .downloadLeft {
+    left: 0; }
+  section#study .downloadRight {
+    right: 0; }
+  section#study .onWeb {
+    display: none; }
+  section#study .onMobile {
+    display: block;
+    border-bottom: rgba(255, 255, 255, 0.5) solid 4px; }
   header .Left {
     padding-left: 20px; }
   header .Mainphoto {
