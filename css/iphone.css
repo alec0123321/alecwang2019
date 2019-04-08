@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 375px) {
   header #Left {
     padding: 0px !important; }
   header .navbar-nav {
@@ -13,11 +13,11 @@
     left: 50px;
     width: 30%;
     margin-top: -100px; }
-  .btn-light, .btn-info {
+  section .btn-light, section .btn-info {
     background-color: #535661; }
-    .btn-light a, .btn-info a {
+    section .btn-light a, section .btn-info a {
       text-decoration: none; }
-  .btn-primary {
+  section .btn-primary {
     background-color: #84B1ED;
     border: #84B1ED; }
   section#About .title, section#study .title {

@@ -1,0 +1,12 @@
+@media screen and (max-width: 812px) {
+  .ipadPhoto, .newPe, .UIX {
+    display: none; }
+  * {
+    line-height: normal !important; }
+  section#UI .boxs {
+    height: 130vh; }
+  section#bot .gif {
+    width: 80% !important;
+    height: auto;
+    padding: 20px;
+    padding-top: 35px; } }

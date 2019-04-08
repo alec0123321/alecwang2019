@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya+Sans|Bangers|Caveat|Dancing+Script|Fira+Sans+Extra+Condensed|Great+Vibes|Heebo|Josefin+Sans|Lato|Merienda|Montserrat|Mrs+Sheppards|Noto+Sans+TC|Noto+Serif+TC|Old+Standard+TT|Open+Sans|Open+Sans+Condensed:300|Playball|Poiret+One|Roboto");
+@media screen and (max-width: 414px) {
+  header .Left {
+    padding-left: 80px; }
+  header .Mainphoto {
+    width: 90%;
+    max-width: 500px;
+    padding: 70px 0px;
+    animation: opacity 2s both;
+    z-index: 2;
+    padding-top: 130px; }
+  @keyframes opacity {
+    0% {
+      opacity: 0.5; }
+    100% {
+      opacity: 1; } }
+  header .name {
+    position: absolute;
+    width: 20%;
+    left: 20%;
+    top: 50%;
+    z-index: 10; } }
