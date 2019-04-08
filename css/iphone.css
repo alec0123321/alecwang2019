@@ -39,6 +39,11 @@
     left: 0; }
   section#study .downloadRight {
     right: 0; }
+  section#study .onWeb {
+    display: none; }
+  section#study .onMobile {
+    display: block;
+    border-bottom: rgba(255, 255, 255, 0.5) solid 4px; }
   section#Project .subTitle, section#Project2 .subTitle, .row#rCode .subTitle {
     font-size: 1.5rem; }
   section#Project .contentText, section#Project2 .contentText, .row#rCode .contentText {
